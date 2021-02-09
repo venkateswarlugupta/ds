@@ -1,0 +1,5 @@
+4
+1001 JavaCompleteReference HerbertSchildt 720 Java
+1002 ComputerOrganization Hamacher 660 ComputerArchitecture 
+1003 DigitalCircuits MorrisMano 520 LogicDesign
+1004 HigherEngineeringMathematics HKDas 800 Mathematics
